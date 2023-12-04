@@ -35,8 +35,8 @@ def check_string_reverse(my_str):
         else:
             return new_str
         
-# filename="D:\\adventofcpde2022\\aoc2023\\data\\day1input.txt"
-filename="D:\\adventofcpde2022\\aoc2023\\data\\day1ex1.txt"
+# filename="D:\\aoc2023\\data\\day1input.txt"
+filename="D:\\aoc2023\\data\\day1ex1.txt"
 # with open("D:\\adventofcpde2022\\aoc2023\\data\\day1ex.txt") as fp:
 with open(filename) as fp:
     inlist = [line.rstrip('\n') for line in fp]

@@ -29,8 +29,8 @@ def minNumber(instr):
             else:
                 continue
     return min_dict
-filename="D:\\adventofcpde2022\\aoc2023\\data\\day2input.txt"
-# filename="D:\\adventofcpde2022\\aoc2023\\data\\day2ex1.txt"
+filename="D:\\aoc2023\\data\\day2input.txt"
+# filename="D:\\aoc2023\\data\\day2ex1.txt"
 fp=open(filename,"r")
 i=0
 sum=0

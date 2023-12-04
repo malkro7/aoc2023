@@ -2,8 +2,8 @@ from numpy import number
 import pandas as pd
 import numpy as np
 max_dict={}
-filename="D:\\adventofcpde2022\\aoc2023\\data\\day3input.txt"
-# filename="D:\\adventofcpde2022\\aoc2023\\data\\day3ex1.txt"
+filename="D:\\aoc2023\\data\\day3input.txt"
+# filename="D:\\aoc2023\\data\\day3ex1.txt"
 fp=open(filename,"r")
 lines=fp.readlines()
 sum=0

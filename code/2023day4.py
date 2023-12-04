@@ -17,8 +17,8 @@ def getwincount(instr):
         except KeyError: 
             count+=0
     return count
-filename="D:\\adventofcpde2022\\aoc2023\\data\\day4input.txt"
-# filename="D:\\adventofcpde2022\\aoc2023\\data\\day4ex1.txt"
+filename="D:\\aoc2023\\data\\day4input.txt"
+# filename="D:\\aoc2023\\data\\day4ex1.txt"
 fp=open(filename,"r")
 i=0
 sum=0
