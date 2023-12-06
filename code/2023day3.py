@@ -118,9 +118,9 @@ for key, value in map_dict.items():
             prdlist.append(tmplist[0]*tmplist[1])
 
 print(prdlist)
-# for n in sumlist:
-#     sum+=n
-# print(sum)
+for n in sumlist:
+    sum+=n
+print(sum)
 for p in prdlist:
     sum+=p
 print(sum)
