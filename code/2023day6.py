@@ -1,8 +1,8 @@
 from numpy import number
 import pandas as pd
 import numpy as np
-time=[55826490]
-dist=[246144110121111]
+time=[44806572]
+dist=[208158110501102]
 cnt=0
 prd=1
 for o in range(len(time)):
